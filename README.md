@@ -18,16 +18,13 @@
 
 ```
 Business-Performance-Dashboard/
-├── data/
-│   ├── raw_data/
-│   └── processed_data/
 ├── dashboard/
 │   ├── Pizza_My_Heart_Dashboard.pbix
 │   └── dashboard_screenshots/
+├── data/
+│   └── processed_data/
 ├── documentation/
-│   ├── key_findings_report.pdf
-│   └── analysis_methodology.md
-
+│   ├── key_findings_report.doc
 └── README.md
 ```
 
